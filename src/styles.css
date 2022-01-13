@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #d3dedc;
+}
+body input,
+button:hover {
+  cursor: pointer;
+}
